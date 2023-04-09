@@ -1,2 +1,2 @@
 # ToDoAPI-DotNEt
-Exercício feito para revisar alguns conhecimentos em DotNet
+Exercício feito para revisar alguns conceitos em DotNet
